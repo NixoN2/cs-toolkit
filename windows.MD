@@ -7,3 +7,5 @@ https://powersploit.readthedocs.io/en/latest/Privesc/ - powerup
 https://github.com/ParrotSec/mimikatz - mimikatz
 
 https://github.com/BC-SECURITY/Empire - post exploitation
+
+https://github.com/Pennyw0rth/NetExec - netexec
